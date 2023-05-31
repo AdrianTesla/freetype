@@ -6,8 +6,8 @@ subprojects/*
 !subprojects/*.wrap
 /tests/data/*
 
-bin
-bin-int
 *.vcxproj
 *.filters
+bin
+bin-int
 *.sln
